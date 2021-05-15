@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "826727883299",
+    "project_id": "donate-helpfood",
+    "storage_bucket": "donate-helpfood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826727883299:android:0491d4d40074622eec8796",
+        "android_client_info": {
+          "package_name": "com.priyanka.donatethefood_helppeople"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826727883299-k43cgs75jsvhbn1k4h83fodavvo5k5n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsU80ObQEfVl7h6jMx2r8tKWb4_0Ak2g0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826727883299-k43cgs75jsvhbn1k4h83fodavvo5k5n9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
